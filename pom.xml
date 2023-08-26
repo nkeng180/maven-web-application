@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Nfesta Technologies Releases Nexus Repository</name>
-	      <url>http://107.22.56.2:8081/repository/toyota-Releases/</url>
+	      <url>http://18.212.171.90:8081/repository/toyota-Releases//</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Nfesta Technologies Snapshot Nexus Repository </name>
-	      <url>http://107.22.56.2:8081/repository/toyota-ci-snapshot/</url>
+	      <url>http://18.212.171.90:8081/repository/toyota-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
